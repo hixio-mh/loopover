@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "chart.js": "^2.9.3",
-    "idb": "^5.0.1",
+    "idb": "^5.0.7",
     "normalize.css": "^8.0.1",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11",
