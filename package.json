@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/chart.js": "^2.9.13",
     "@vue/cli-plugin-babel": "^4.2.2",
-    "@vue/cli-plugin-pwa": "^4.2.2",
+    "@vue/cli-plugin-pwa": "^4.5.13",
     "@vue/cli-plugin-typescript": "^4.2.2",
     "@vue/cli-service": "^4.2.2",
     "typescript": "^3.7.5",
